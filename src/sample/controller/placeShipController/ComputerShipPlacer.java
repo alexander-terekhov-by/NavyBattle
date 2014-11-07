@@ -1,13 +1,13 @@
 package sample.controller.placeShipController;
 
-import sample.controller.Pair;
+import sample.Pair;
 
 import java.util.Random;
 
 /**
  * Created by Александр on 29.10.2014.
  */
-public class ComputerShipPlacer extends AbstractShipPlacer{
+public class ComputerShipPlacer extends AbstractShipPlacer {
     public ComputerShipPlacer() {
         super();
     }

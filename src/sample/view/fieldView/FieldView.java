@@ -1,22 +1,11 @@
 package sample.view.fieldView;
 
-import javafx.event.EventHandler;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
-import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.BorderPane;
-import javafx.scene.layout.HBox;
-import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
-import sample.controller.Pair;
-import sample.controller.placeShipController.ComputerShipPlacer;
-import sample.controller.placeShipController.UserShipPlacer;
-import sample.drawers.FieldDrawer;
 import sample.model.Field;
-
-import javax.swing.border.Border;
 
 
 /**

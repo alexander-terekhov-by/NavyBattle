@@ -4,12 +4,10 @@ import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.scene.control.Button;
-import javafx.scene.image.Image;
-import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import sample.GameController;
-import sample.controller.SmartAI;
-import sample.controller.StupidAI;
+import sample.controller.shootController.SmartAI;
+import sample.controller.shootController.StupidAI;
 
 /**
  * Created by Александр on 31.10.2014.

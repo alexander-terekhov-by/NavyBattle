@@ -1,8 +1,6 @@
 package sample.view;
 
 import javafx.scene.layout.HBox;
-import sample.controller.ShootController;
-import sample.controller.UserShootController;
 import sample.view.fieldView.FieldView;
 import sample.view.fieldView.ShootFieldView;
 

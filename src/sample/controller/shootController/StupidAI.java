@@ -1,6 +1,8 @@
-package sample.controller;
+package sample.controller.shootController;
 
 
+
+import sample.Pair;
 
 import java.util.ArrayList;
 import java.util.List;

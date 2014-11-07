@@ -1,15 +1,12 @@
 package sample;
 
-import sample.controller.ComputerController;
-import sample.controller.StupidAI;
-import sample.controller.UserShootController;
+import sample.controller.shootController.ComputerController;
+import sample.controller.shootController.UserShootController;
 import sample.controller.placeShipController.ComputerShipPlacer;
-import sample.controller.placeShipController.UserShipPlacer;
 import sample.drawers.FieldDrawer;
 import sample.model.Field;
 import sample.view.GameView;
 import sample.view.PlaceShipsView;
-import sample.view.fieldView.ShootFieldView;
 
 /**
  * Created by Александр on 01.11.2014.

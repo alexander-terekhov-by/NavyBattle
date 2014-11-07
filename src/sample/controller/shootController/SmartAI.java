@@ -1,8 +1,7 @@
-package sample.controller;
+package sample.controller.shootController;
 
+import sample.Pair;
 import sample.model.Field;
-import sample.model.states.SquareStates;
-import sample.view.fieldView.FieldView;
 
 import java.util.Random;
 

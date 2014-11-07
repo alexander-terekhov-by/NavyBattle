@@ -2,14 +2,12 @@ package sample.controller.placeShipController;
 
 import sample.drawers.ShipDrawer;
 import sample.model.Ship;
-import sample.view.PlaceShipsView;
-import sample.view.fieldView.FieldView;
 import sample.view.fieldView.PlaceFieldView;
 
 /**
  * Created by Александр on 29.10.2014.
  */
-public class UserShipPlacer extends AbstractShipPlacer{
+public class UserShipPlacer extends AbstractShipPlacer {
     ShipDrawer drawer;
     PlaceFieldView fieldView;
     public UserShipPlacer(PlaceFieldView fieldView) {

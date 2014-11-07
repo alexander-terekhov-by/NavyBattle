@@ -1,6 +1,7 @@
-package sample.controller;
+package sample.controller.shootController;
 
 
+import sample.Pair;
 import sample.view.EndOfGameMessage;
 import sample.drawers.ShootDrawer;
 import sample.model.states.SquareStates;

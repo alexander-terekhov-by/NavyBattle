@@ -1,6 +1,6 @@
 package sample.controller.placeShipController;
 
-import sample.controller.Pair;
+import sample.Pair;
 import sample.model.Ship;
 import sample.model.Square;
 

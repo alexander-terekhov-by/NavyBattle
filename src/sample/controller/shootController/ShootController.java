@@ -1,6 +1,5 @@
-package sample.controller;
+package sample.controller.shootController;
 
-import sample.controller.placeShipController.ShootStates;
 import sample.model.Field;
 import sample.model.Ship;
 import sample.model.Square;

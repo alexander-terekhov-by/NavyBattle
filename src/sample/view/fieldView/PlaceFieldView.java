@@ -1,12 +1,9 @@
 package sample.view.fieldView;
 
 import javafx.event.EventHandler;
-import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.input.MouseEvent;
-import javafx.scene.paint.Color;
-import sample.controller.Pair;
+import sample.Pair;
 import sample.controller.placeShipController.UserShipPlacer;
-import sample.model.Field;
 
 /**
  * Created by Александр on 30.10.2014.

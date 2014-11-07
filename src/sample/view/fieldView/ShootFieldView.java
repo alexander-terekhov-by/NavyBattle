@@ -1,11 +1,8 @@
 package sample.view.fieldView;
 
 import javafx.event.EventHandler;
-import javafx.scene.canvas.Canvas;
 import javafx.scene.input.MouseEvent;
-import sample.controller.ShootController;
-import sample.drawers.ShootDrawer;
-import sample.controller.UserShootController;
+import sample.controller.shootController.UserShootController;
 
 /**
  * Created by Александр on 30.10.2014.
